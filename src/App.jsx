@@ -4,7 +4,7 @@ const App = () => {
   return (
     <>
       <Rating
-        heading='How do you feel about React?'
+        heading='How do you feel about our Service?'
         feedbackMessages={[
           'Hate it',
           'Dislike it',
